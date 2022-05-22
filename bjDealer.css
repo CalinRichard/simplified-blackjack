@@ -1,0 +1,28 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url(bjtable.jpg);
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+   font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150 px;
+    background-color: goldenrod;
+    padding-top: 5 px;
+    padding-bottom: 5 px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 2px 0px 2px 0px;
+}
