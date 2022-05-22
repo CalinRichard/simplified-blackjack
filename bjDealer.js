@@ -1,7 +1,7 @@
 // Setup global state
 const player = {
     name: "Player",
-    chips: 150
+    chips: 200
 }
 let cards = []
 let dealerCards = []
